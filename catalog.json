@@ -1752,7 +1752,13 @@
    "body_chars": 2360,
    "sha256_16": "8d9ee893de6070a4",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "seoul-sleep-disorder-05",
+     "date": "2026-10-21",
+     "note": "seoul-rbd 후보 105가 불면증 내용이라 prefix를 seoul-sleep-disorder로 하고 원문 142(수면유지장애) 사용. 자주 깨고 개운치 않은 잠의 심리/신체 요인 구분 각도. 원문의 돌연사·연구결과·체중감량 권유·20분 입면 기준 수치는 제외, 2018-07 건강보험 제도 사실만 사용"
+    }
+   ]
   },
   {
    "id": "143",
