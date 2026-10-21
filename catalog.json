@@ -462,7 +462,13 @@
    "body_chars": 2332,
    "sha256_16": "8875e4f538fcbaa9",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "seoul-insomnia-05",
+     "date": "2026-10-21",
+     "note": "불면증과 낮 졸림 구분·수면장애 종류 각도(원문의 TMS·바이오피드백 등 검사 장비·약물 서술 제외, 수치는 일반 범위만). 토픽 2페이지 pager 및 기존 토픽 pager 보강"
+    }
+   ]
   },
   {
    "id": "038",
