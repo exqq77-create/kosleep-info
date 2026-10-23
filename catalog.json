@@ -2261,7 +2261,13 @@
    "body_chars": 2302,
    "sha256_16": "9bb08722bde95cd5",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "seoul-cpap-11",
+     "date": "2026-10-24",
+     "note": "각도: 양압기 이중압력(BiPAP) 방식의 흡기·호기 압력 차이, 고려 상황, 가습기·마스크 청결 관리, 상담 질문. 원문 163의 CPAP/APAP/BiPAP 구분·가습기 청결·마스크 교체 사실만 사용; 3D CT·AMC 검사 등 병원 고유 주장·사진 지시·1인칭 표현 제외; seoul-rls는 원문 없어 건너뛰고 seoul-rbd는 후보 2건이 모두 주제 불일치·3회 사용이라 글 수 10편인 seoul-cpap 선택"
+    }
+   ]
   },
   {
    "id": "164",
