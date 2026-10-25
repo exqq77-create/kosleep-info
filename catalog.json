@@ -1127,7 +1127,13 @@
    "body_chars": 1558,
    "sha256_16": "fe95ade2e7e6579b",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "seoul-narcolepsy-19",
+     "date": "2026-10-26",
+     "note": "가족이 본 낮 행동 기록·진료 전달 각도(원문의 기면증 검사 일반 소재 활용)"
+    }
+   ]
   },
   {
    "id": "076",
