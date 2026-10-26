@@ -2978,7 +2978,13 @@
    "body_chars": 1344,
    "sha256_16": "60950466aeaad15e",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "seoul-polysomnography-20",
+     "date": "2026-10-26",
+     "note": "교대근무·주말 몰아 자기로 생체리듬 흐트러짐, 생활조정 한계 신호, 검사 확인 내용(일주기 리듬 각도)"
+    }
+   ]
   },
   {
    "id": "189",
