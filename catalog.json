@@ -551,7 +551,13 @@
    "body_chars": 1256,
    "sha256_16": "5fbdd6e40b1162c0",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "seoul-cpap-32",
+     "date": "2026-10-29",
+     "note": "양압기 초기 적응기 착용 연습·마스크 선택·위생 각도; 원문 대여절차 일부 사용, 비용 미기재; seoul-narcolepsy 후보 원문이 코골이/양압기라 cpap 접두어 사용"
+    }
+   ]
   },
   {
    "id": "032",
